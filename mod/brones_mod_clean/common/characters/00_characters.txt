@@ -1,0 +1,938 @@
+# ============================================================
+# BRONES MOD - ALL CHARACTERS (50 Governors + 13 Family/Friends)
+# Start Date: 2026.1.1
+# ============================================================
+
+# ============================================================
+# YOUR FAMILY & FRIENDS (13 PLAYABLE CHARACTERS)
+# ============================================================
+
+# HOUSE BRONES - ARIZONA
+brones_luke = {
+    name = "Luke"
+    dynasty = dynasty_brones
+    religion = "catholic"
+    culture = "anglo"
+    father = brones_joshua
+    mother = gorman_erin
+    dna = "SNxT/QpkCmRGO1DLAXIBcgGGAYYAgwCDAYYBhgB/AH8BhAGEAHIAcgB7AHsBjAGMAYwBjAHSAdIBhAGEAYwBjAByAHIAdwB3AYwBjAGMAYwBjAGMAHIAcgGDAYMBeAF4AHIAcgB4AHgAfQB9AHIAcgF/AX8BjAGMAH0AfQGMAYwAcgByAYMBgwGKAYoBawEqAFUBAwAoACgBCgEKADYANgB+AH4AAgACASkBKQF4AXgCLQItAVoBWgEFAQUAXgBeAA8ADwA9AD0AIAAgABoAGgH7ACoAKgAqAJ8BBQEAAAAAbwBvAAUABQB7AHsADgAOACoAKgDxABIAIgAiAR4BHgELAQsALwAvAEQARAAPAA8BCwELAyADIAELAQsAKgAqARABEAATABMBHAEcAAQABACsAKwCGAQYAAAAFgD3APcAEAAQAg8CDwINAg0ADAAMABYAFgBhANYD3gLeArkCuQBYAFgCAAIACAACxgGPAYcBcgNyAf8BAABBBGcE/wIDBY4FjgOrA6sAqgKqAZQClAEAAb8ABQAFAAAAAAH4Afg="
+    age = 17
+    trait = sadistic
+    trait = beauty_good_3
+    trait = brave
+    trait = lazy
+    trait = gregarious
+    trait = ambitious
+    2009.1.1 = { birth = yes }
+}
+
+brones_joshua = {
+    name = "Joshua"
+    dynasty = dynasty_brones
+    religion = "catholic"
+    culture = "anglo"
+    dna = "CflheU1bYlHrcfeOAYEBgQB/AH8AeAB4AYgBiAB9AH0AfAB8AHkAeQB/AH8AVQB5AHEAcQGYAZgAXABcADoAOgGBAZYARABPAYEBhwFjAZkAdgB2AAAAZACRAHgBfwGDAIMAUQGPAY8BhgGGAHcAdwF/AX8AVgBWAYcBhwBkAGQBjgGOAX8BgQCCAG4BJQEeAAMBcAEHAQsBBQFhAH4AIAJ/AXQABQAjAQUBIgEQARABUgFSAXEBcQEgASAAqQCpAQMBAwAYABgBQgFCACgAKAGlAG8AkwCTATgBOAFiAWIAXABcADEAMQEzATMAbwBvAAEAAQETARMADQANAQ0BDQAfAB8ALwBcABMAEwAJAAkAHQAdAQwBDAAcABwAFwAXACsAKwEwATAABwAHABsAGwEWARoAAAC4AQABAAEAAWkByQHJAQABAAEBAQEAxQDFABkAGQB/APMD/wPQAgAC2QAAAFwCAAIAAssC6gGmAaIBhQOFC6ALAAA9A5gD4gPiA3UDdQSmBKYABAG7AJIAkgD/AUUA4ADgAAAAAAHkAeQ="
+    age = 50
+    trait = intellect_good_3
+    trait = stubborn
+    trait = zealous
+    trait = honest
+    trait = gregarious
+    trait = diligent
+    trait = ambitious
+    1976.1.1 = { birth = yes }
+}
+
+brones_jacob = {
+    name = "Jake"
+    dynasty = dynasty_brones
+    religion = "catholic"
+    culture = "anglo"
+    father = brones_joshua
+    mother = gorman_erin
+    dna = "WDhYODtLO0vfht+GAHIAcgB7AHsBgAGAAYwBjAB+AH4BhgGGAYsBiwGCAYIAbwBvAYsBiwHSAdIBgQGBAacBpwBkAGQBhwGHAZYBlgBvAG8BmwGbAIEAWAGjAaEBXgGFAV0BggB+AH4BgQGBAH4AfgGYAZgBggGCAZIBkgBqAGoAWgBaAYcBhwGVAZUACQAjAQUBBQCNAR8BLAEsAAEAAQAZABkBBAEEAAAAAAFWAVYAJAAkAXwBfAEBAQEAbABsARoBGgEFAQUBDAEMACAAIAE1ARQALQAtACUAJQGdAZ0BYQFhAAIAAgAzADMAFAAUACcAJwEbARsAFQAVAF8AXwAeAB4BEAEQAQMBAwAmACYBAgECAQgBCAEFAQUAAwADASoBKgEnAScACAAIAW8BbwGpAYUCAAI+AAAACgEAAQgAlQCVBAYEBgIZAhkBtAG0AJcAlwBjANEDAANRAq4CrgAAAC0CAAIABsEGwQFnAWcBegODCIcIAAA8BJgCpQKlBLIEsgNXA1cBYAFgAp0CnQD/AZcAzADMAAAAAAGBAYE="
+    age = 19
+    trait = generous
+    trait = shy
+    trait = craven
+    trait = stubborn
+    trait = forgiving
+    2007.1.1 = { birth = yes }
+}
+
+gorman_erin = {
+    name = "Erin"
+    dynasty = dynasty_gorman
+    female = yes
+    religion = "catholic"
+    culture = "anglo"
+    dna = "UFxQXC1HLUdy08iQAZgBmAByAHIAYwBjAGMAYwB1AHUAegB6AHgAeAGHAYcB0QHRAGwAbAG2AbYBlAGUAFQAVAB+AH4BjAGMAGYAZgB5AHkBkwGTAX8BfwByAHIBiwGLAY4BjgGDAYMAegB6AYQBhAGKAYoBhAGEAYIBggGdAZ0AawBrAZQBlAB7AHsABQAFAB0AHQEDAQNANAA0ABkAGQAHAAcBAAEAASIBIgEyATIBRAFEAbgBuAAYABgAIwAjACQAJAAGAAYALwAvAS4BLgEkASQAUgBSACUAJQEJAQkAVABUAAgACAAJAAkAAgACAEEAQQFVAVUBCAEIABIAEgENAQ0BfgF+AE0ATQEkASQAGAAYAg4CDgAUABQBGgEaAT0BPQBzAHMAIwAjABMAEwETARMBbAFsALcAtwGOAY4BRQFFAD8APwAAAAAAAwADAK8ArwDWANYBLAEsACEAIQChAKECAAIABqQGpAGBAYEBdwKDCTIJAABiCWAAKAAoAXQBdANOA04AfwC2AaQBpAD/AY4ArgCuAAAAAAHwAfA="
+    age = 40
+    trait = craven
+    trait = content
+    trait = generous
+    trait = shy
+    1986.1.1 = { birth = yes }
+}
+
+# HOUSE SIANEZ - CALIFORNIA
+sianez_emma = {
+    name = "Emma"
+    dynasty = dynasty_sianez
+    female = yes
+    religion = "catholic"
+    culture = "anglo"
+    dna = "UudS582br3Q8qZKKAY4BjgGLAYsBhQGFAYQBhAB/AH8AfwB/AHIAcgBzAHMAfwB/AYABgAHAAcAAWABYAZgBmABnAGcB4gHiAZgBmAGIAYgBmgGaAH4AegB4AHgAdwB3AAcAXwB7AHsBgQGBAHMAcwGSAZIARQBFAZ8BnwGAAYAAOQA5AGwAbABnAGcBAwEgAF0AXQD/AQABbQFtADMAMwJAAkABWgFaASEBIQEKAQoBJgEmAS8BLwEAAQABLwEvASEBIQBIAEgBMgEyAAcABwBnAREAVwBXABoAGgGuAa4BWwFbACAAIAAuAC4AcgByADIAMgEVARUBHQEdAWkBaQEzATMBSAFIARcBFwFgAWAAAQABAAAAAAEMAQwAEQARACkAKQEeAR4BfgF+AKgAqAEAAaEEfAR8AAgACAEnAScBPAE8BQQFBAIKAgoBCAEIALQAtAD/AEoAAAA5AD4APgHaAdoCAAIAAnECcQF7AXsBXwKGCxkLAADEAm0CvwK/AfAB8AOeA54BbgFuAH4BcAD/AXEAAAAAAAAAAAHDAcM="
+    age = 19
+    trait = beauty_good_3
+    trait = gregarious
+    2007.1.1 = { birth = yes }
+}
+
+sianez_isabella = {
+    name = "Isabella"
+    dynasty = dynasty_sianez
+    female = yes
+    religion = "catholic"
+    culture = "anglo"
+    dna = "UudS582br3Q8qZKKAY8BjwGLAYsBhQGFAYQBhAB/AH8AfwB/AHIAcgBzAHMAfwB/AYABgAHAAcAAWABYAZgBmABnAGcB4gHiAZgBmAGIAYgBmgGaAH4AegB4AHgAdwB3AAcAXwB7AHsBgQGBAHMAcwGSAZIARQBFAZ8BnwGAAYAAOQA5AGwAbABnAGcBAwEgAF0AXQD/AQABbQFtADMAMwJAAkABWgFaASEBIQEKAQoBJgEmAS8BLwEAAQABLwEvASEBIQBIAEgBMgEyAAcABwBnAREAVwBXABoAGgGuAa4BWwFbACAAIAAuAC4AcgByADIAMgEVARUBHQEdAWkBaQEzATMBSAFIARcBFwFgAWAAAQABAAAAAAEMAQwAEQARACkAKQEeAR4BfgF+AKgAqAEAAaEEfAR8AAgACAEnAScBPAE8BQQFBAIKAgoBCAEIALQAtAD/AEoAAAA5AD4APgHaAdoCAAIAAnECcQF7AXsBXwKGCxkLAADEAm0CvwK/AfAB8AOeA54BbgFuAH4BcAD/AXEAAAAAAAAAAAHDAcM="
+    age = 16
+    trait = beauty_good_3
+    trait = gregarious
+    2010.1.1 = { birth = yes }
+}
+
+# HOUSE RUST - CALIFORNIA
+rust_joe = {
+    name = "Joseph"
+    dynasty = dynasty_rust
+    religion = "catholic"
+    culture = "anglo"
+    father = rust_martin
+    mother = rust_jacquie
+    dna = "Vu5W7hVVFVUmwL20AZIBkgBaAHsBhQGFAYoBigB6AHoAcgByAYwBjABuAG4BlgGWAHUAdQGkAaQAZwBnAGgAaAGSAa8BhAGEAHEAcQBfAF8BmAGYAEsASwGLAYsBdAGGAX8BfwGDAYMAegB6AHsAewB8AHwBgwGDAaABpgBOAHEADQANAX8BfwGZAZkBIgEiAAsBSQEKAQoAMwAzAEoASgC3ALcALgAuAE8ATwEYARgBfwF/AK8ArwETARMArwCvAQQBBAA4ADgBDAEMAA8ADwF3AC8AAAAnAI0AIgCPAWQBlQEUAB8AHwFhAWEAKwArAAAAxAC/AQYAsQERAXkBTgAOAA4BIwEjAJUAKgBBAEEBtQEKAU0BagANAA0BDwEPABMAEwEmASYBKwAnAR0BHQHHAQgCAAJAAQMBAwEAAREArQCtBesF6wAAAAcABQAFAOYA5gDjAOMAiwCzAgACzgChAKECAAIAAoACgAGEAYQCeAJ4BisGKwJRAlEATgBOAeIB4gG2AbYBWQFZAWICYgD/AeUAxADEAAAAAAGMAYw="
+    age = 17
+    trait = chaste
+    trait = beauty_good_3
+    trait = loyal
+    trait = forgiving
+    trait = intellect_good_3
+    trait = compassionate
+    2009.1.1 = { birth = yes }
+}
+
+rust_martin = {
+    name = "Martin"
+    dynasty = dynasty_rust
+    religion = "catholic"
+    culture = "anglo"
+    dna = "Vu5W7hVVFVUmwL20AZIBkgBaAHsBAAGFAYoBigB6AHoAcgByAYwBjABuAG4BlgGWAHUAdQGkAaQAZwBnAGgAaAGSAa8BhAGEAHEAcQBfAF8BmAGYAEsASwGLAYsBdAGGAQABfwGDAYMAegB6AHsAewB8AHwBgwGDAaABpgBOAHEADQANAX8BfwGZAZkBIgEiAAsBSQEKAQoAMwAzAEoASgC3ALcALgAuAE8ATwEYARgBfwF/AK8ArwETARMArwCvAQQBBAA4ADgBDAEMAA8ADwFbAC8AAAAnAI0AIgCPAWQBlQEUAB8AHwFhAWEAKwArAAAAxAC/AQYAsQERAXkBTgAOAA4BIwEjAJUAKgBBAEEBtQEKAU0BagANAA0BDwEPABMAEwEmASYBKwAnAR0BHQFVAQgCAAJAAQMBAwEAAREArQCtBesF6wAAAAcABQAFAOYA5gDjAOMAiwCzAgACzgChAKECAAIAAoACgAFjAYQCeAJ4BkQGKwBAAlEATgBOAeIB4gG2AbYBWQFZAWICYgD/AeUAxADEAAAAAAGMAYw="
+    age = 73
+    trait = zealous
+    trait = paranoid
+    trait = arbitrary
+    trait = stubborn
+    1953.1.1 = { birth = yes }
+}
+
+rust_jacquie = {
+    name = "Jacquie"
+    dynasty = dynasty_rust
+    female = yes
+    religion = "catholic"
+    culture = "anglo"
+    dna = "IvoT7a5/rn8jzCPMAZsBmwGMAYwBowGjAYEBgQGGAYYBhgGGAboBugGBAYEBlwGXAZIBkgGpAakBkAGQAaYBpgB4AHgBpQGlAFUAVQGMAYwAfAB8AZQBlAGIAYgAfQB9AHUAdQGAAYAAeQB5AGsAawGYAZgBiAGIAGAAYABhAGEAVABUACoAKgGnAacAMgAyAQkBCQEVARUBIgEiABMAEwEzATMALwAvARUBFQFSAVIBtgG2ASMBIwEoASgAVQBVARIBEgARABEBcgFyACsAKwDEAMQAJAAkACgAKAE/AT8AXgBeAG4AbgEzATMBDgEOACIAIgA0ADQABAAEAREBEQEmASYBGgEaAF0AXQEfAR8AMAAwASABIABXAFcBAAEAARcBFwAYABgBEwETAQQBBAALAAsEBQQFAA0ADQEmASYB0wHTAxYDFgAHAAcACQAJAAEAAQDMAMwDXQNdAD8APwAoACgCAAIAALcBtwFqAX8BdwJ3BAAEAAT/BJMB5gHmCcMJwwPpA+kAAABpALcAtwGGAYYA7QDtAAAAAAF0AXQ="
+    age = 50
+    trait = brave
+    trait = gregarious
+    trait = loyal
+    trait = generous
+    1976.1.1 = { birth = yes }
+}
+
+rust_jamilyn = {
+    name = "Jamilyn"
+    dynasty = dynasty_rust
+    female = yes
+    religion = "catholic"
+    culture = "anglo"
+    father = rust_martin
+    mother = rust_jacquie
+    dna = "5HfkdyMWFEmpx6nHAZgBmAB2AHYBhgGGAH0AfQGCAYIBigGKAYIBggGRAZEBkQGRAH8AfwGxAbEAfQB9AGgAaAGSAZIBsgGyAZ8BnwB6AHoAdQB1AW0BlgGJAYkAcgByAX8BfwGAAYABhgGGAHsAewGHAYcAdQB1AZABkABxAHEAPAA8AGkAaQGqAaoAJAAkAQ0BDQEJAQkAMwAzAAMAAwJiAmIBIwEjAC4ALgEmASYBBwEHAC0ALQEtAS0AJAAkACsAKwEIAQgBRAFEATIBMgBbAFsAbABsAEoASgDBAMEAfwB/AAQABAFzAXMBRgFGAAkACQEXARcAXQBdAAwADAEcARwBIgEiAH8AfwBAAEABbQFtAQgBCAASABIAMAAwATQBNAE3ATcADgAOABgAGAEHAQcAHgAeAQwBDAAJAAkB1QHVA6UDpQIBAgEAAwADAN8A3wBhAGEBAAGfAQAB0wBIAEgCAAIABZ0FnQF+AX4BgwODBgAGAAKjAtUAwQDBAYQBhAOlA6UBtQG1AZsBmwD/AagAUwBTAAAAAAGTAZM="
+    age = 19
+    trait = gregarious
+    2007.1.1 = { birth = yes }
+}
+
+# HOUSE MCAULIFFE - CALIFORNIA
+mcauliffe_ireland = {
+    name = "Ireland"
+    dynasty = dynasty_mcauliffe
+    female = yes
+    religion = "catholic"
+    culture = "anglo"
+    dna = "O+g76KRwpHAYjRiNAH4AfgB/AH8AeQB5AH0AfQB6AHoBgAGAAYoBigGJAYkAcABwAYABgAGfAZ8ATABMAFIAUgBvAG8AXQBdAYUBhQGAAYABigGKAYkBiQB8AHwAdgB2AHAAcAGLAYsBhwGHAHoAegGAAYAAdAB0AHwAfABrAGsAKAAoAHgAeAGBAYEAVgBWABAAEAADAAMBMQExAKsAqwJcAlwBMgEyAQoBCgEWARYBwwHDASgBKAEcARwBCwELADEAMQBIAEgBMAEwASIBIgArACsAVQBVAAUABQEgASABEgESACEAIQEqASoBBgEGAC4ALgEAAQABOAE4ASYBJgEAAQABHAEcAQgBCAFdAV0BBAEEARMBEwEfAR8ALQAtAQABAAB2AHYBAAEAAJcAlwGOAY4DPgM+AQkBCQEDAQMAGQAZARYBFgAQABAAAAAAAIQAhABqAGoD0QPRAFEAUQLkAuQCAAIABPYE9gFYAYQBlQGVCA8IDwiOCFAClAKUA9cD1wLCAsICqQKpAWMBYwD/AXcAbgBuAAAAAAHMAcM="
+    age = 17
+    trait = beauty_good_3
+    trait = gregarious
+    trait = ambitious
+    2009.1.1 = { birth = yes }
+}
+
+# HOUSE HAMILTON - OKLAHOMA
+hamilton_justin = {
+    name = "Justin"
+    dynasty = dynasty_hamilton
+    religion = "catholic"
+    culture = "anglo"
+    father = hamilton_jason
+    dna = "b0RvRAtJC0m418+zAYIBggB1AHUBhwGHAH0AfQB1AHUAdwB3AHgAeABmAGYBgwGDAZYBlgGUAZQBhQGFAC0ALQB2AHYAZwBnAaMBowB0AHQBlQGVAHAAcAB7AHsAeQB5AZMBkwGLAYsBkAGQAYQBhAGkAaQAawBrAaUBpQBwAHABqgGqAHgAeAGZAZkACAAIASsBKwEHAQcBHgEeAKgAqAAyADIBAAEAACIAIgECAQIBSQFJARsBGwFBAUEBFQEVABoAGgEEAQQABgAGAU8BTwApAMAAhgCGAAsACwFBAUEBeQF5ACUAJQEDAQMBEQERABAAEAAPAA8BiAGIAH4AfgAZABkAZgBmAREBEQFyAXIABwAHAEYARgAaABoBMQExATABMAF1AXUBYwFjAAkACQEAARgDAAPeAAMAAwD/APMBawFrAhICEgBOAE4ADQANABcAFwDFAMUCBwIHACkAKQBmAGYCAAIAALMAswHOAX0BgAKABgAGKwZpBmkDzgPOA2IDYgRDBEMBZAFkAYsBiwHUAdQAoACgAAAAAAHeAd4="
+    age = 17
+    trait = lustful
+    trait = gregarious
+    trait = greedy
+    trait = ambitious
+    2009.1.1 = { birth = yes }
+}
+
+hamilton_jason = {
+    name = "Jason"
+    dynasty = dynasty_hamilton
+    religion = "catholic"
+    culture = "anglo"
+    dna = "b0RvRAtJC0m418+zAYIBggB1AHUBhwGHAH0AfQB1AHUAdwB3AHgAeABmAGYBgwGDAZYBlgGUAZQBhQGFAC0ALQB2AHYAZwBnAaMBowB0AHQBlQGVAHAAcAB7AHsAeQB5AZMBkwGLAYsBkAGQAYQBhAGkAaQAawBrAaUBpQBwAHABqgGqAHgAeAGZAZkACAAIASsBKwEHAQcBHgEeAKgAqAAyADIBAAEAACIAIgECAQIBSQFJARsBGwFBAUEBFQEVABoAGgEEAQQABgAGAU8BTwApAMAAhgCGAAsACwFBAUEBeQF5ACUAJQEDAQMBEQERABAAEAAPAA8BiAGIAH4AfgAZABkAZgBmAREBEQFyAXIABwAHAEYARgAaABoBMQExATABMAF1AXUBYwFjAAkACQEAARgEBAPeAAMAAwD/APMBawFrAhICEgBOAE4ADQANABcAFwDFAMUCBwIHACkAKQBmAGYCAAIAALMAswHOAX0BgAKABgAGKwZpBmkDzgPOA2IDYgRDBEMBZAFkAYsBiwHUAdQAoACgAAAAAAHeAd4="
+    age = 50
+    trait = gregarious
+    1976.1.1 = { birth = yes }
+}
+
+# ============================================================
+# USA STATE GOVERNORS (50 TOTAL)
+# ============================================================
+
+# ALABAMA
+governor_alabama = {
+    name = "Kay"
+    dynasty = dynasty_ivey
+    female = yes
+    religion = "catholic"
+    culture = "anglo"
+    age = 68
+    trait = stubborn
+    trait = diligent
+    trait = just
+    trait = prudent
+    1956.1.1 = { birth = yes }
+}
+
+# ALASKA
+governor_alaska = {
+    name = "Mike"
+    dynasty = dynasty_dunleavy
+    religion = "catholic"
+    culture = "anglo"
+    age = 61
+    trait = ambitious
+    trait = brave
+    trait = diligent
+    trait = shrewd
+    1965.1.1 = { birth = yes }
+}
+
+# ARIZONA
+governor_arizona = {
+    name = "Katie"
+    dynasty = dynasty_hobbs
+    female = yes
+    religion = "catholic"
+    culture = "anglo"
+    age = 53
+    trait = ambitious
+    trait = diligent
+    trait = just
+    trait = honest
+    1973.1.1 = { birth = yes }
+}
+
+# ARKANSAS
+governor_arkansas = {
+    name = "Sarah"
+    dynasty = dynasty_huckabee_sanders
+    female = yes
+    religion = "catholic"
+    culture = "anglo"
+    age = 52
+    trait = ambitious
+    trait = zealous
+    trait = gregarious
+    trait = shrewd
+    1974.1.1 = { birth = yes }
+}
+
+# CALIFORNIA
+governor_california = {
+    name = "Gavin"
+    dynasty = dynasty_newsom
+    religion = "catholic"
+    culture = "anglo"
+    age = 56
+    trait = ambitious
+    trait = gregarious
+    trait = shrewd
+    trait = cynical
+    1967.1.1 = { birth = yes }
+}
+
+# COLORADO
+governor_colorado = {
+    name = "Jared"
+    dynasty = dynasty_polis
+    religion = "jewish"
+    culture = "anglo"
+    age = 58
+    trait = ambitious
+    trait = diligent
+    trait = honest
+    trait = brave
+    1966.1.1 = { birth = yes }
+}
+
+# CONNECTICUT
+governor_connecticut = {
+    name = "Ned"
+    dynasty = dynasty_lamont
+    religion = "catholic"
+    culture = "anglo"
+    age = 70
+    trait = prudent
+    trait = diligent
+    trait = just
+    trait = honest
+    1954.1.1 = { birth = yes }
+}
+
+# DELAWARE
+governor_delaware = {
+    name = "John"
+    dynasty = dynasty_carney
+    religion = "catholic"
+    culture = "anglo"
+    age = 68
+    trait = diligent
+    trait = just
+    trait = prudent
+    trait = honest
+    1956.1.1 = { birth = yes }
+}
+
+# FLORIDA
+governor_florida = {
+    name = "Ron"
+    dynasty = dynasty_desantis
+    religion = "catholic"
+    culture = "anglo"
+    age = 46
+    trait = ambitious
+    trait = zealous
+    trait = shrewd
+    trait = controversial
+    1978.1.1 = { birth = yes }
+}
+
+# GEORGIA
+governor_georgia = {
+    name = "Brian"
+    dynasty = dynasty_kemp
+    religion = "protestant"
+    culture = "anglo"
+    age = 59
+    trait = ambitious
+    trait = diligent
+    trait = shrewd
+    trait = pragmatic
+    1965.1.1 = { birth = yes }
+}
+
+# HAWAII
+governor_hawaii = {
+    name = "Josh"
+    dynasty = dynasty_green
+    religion = "catholic"
+    culture = "anglo"
+    age = 63
+    trait = just
+    trait = diligent
+    trait = honest
+    trait = compassionate
+    1961.1.1 = { birth = yes }
+}
+
+# IDAHO
+governor_idaho = {
+    name = "Brad"
+    dynasty = dynasty_little
+    religion = "mormon"
+    culture = "anglo"
+    age = 63
+    trait = conservative
+    trait = diligent
+    trait = prudent
+    trait = honest
+    1961.1.1 = { birth = yes }
+}
+
+# ILLINOIS
+governor_illinois = {
+    name = "J.B."
+    dynasty = dynasty_pritzker
+    religion = "jewish"
+    culture = "anglo"
+    age = 59
+    trait = ambitious
+    trait = gregarious
+    trait = shrewd
+    trait = pragmatic
+    1965.1.1 = { birth = yes }
+}
+
+# INDIANA
+governor_indiana = {
+    name = "Eric"
+    dynasty = dynasty_holcomb
+    religion = "protestant"
+    culture = "anglo"
+    age = 54
+    trait = diligent
+    trait = just
+    trait = prudent
+    trait = honest
+    1970.1.1 = { birth = yes }
+}
+
+# IOWA
+governor_iowa = {
+    name = "Kim"
+    dynasty = dynasty_reynolds
+    female = yes
+    religion = "protestant"
+    culture = "anglo"
+    age = 62
+    trait = ambitious
+    trait = diligent
+    trait = shrewd
+    trait = stubborn
+    1962.1.1 = { birth = yes }
+}
+
+# KANSAS
+governor_kansas = {
+    name = "Laura"
+    dynasty = dynasty_kelly
+    female = yes
+    religion = "catholic"
+    culture = "anglo"
+    age = 62
+    trait = ambitious
+    trait = diligent
+    trait = just
+    trait = honest
+    1962.1.1 = { birth = yes }
+}
+
+# KENTUCKY
+governor_kentucky = {
+    name = "Andy"
+    dynasty = dynasty_beshear
+    religion = "catholic"
+    culture = "anglo"
+    age = 47
+    trait = ambitious
+    trait = diligent
+    trait = just
+    trait = compassionate
+    1979.1.1 = { birth = yes }
+}
+
+# LOUISIANA
+governor_louisiana = {
+    name = "Jeff"
+    dynasty = dynasty_landry
+    religion = "catholic"
+    culture = "franco"
+    age = 67
+    trait = ambitious
+    trait = shrewd
+    trait = stubborn
+    trait = zealous
+    1957.1.1 = { birth = yes }
+}
+
+# MAINE
+governor_maine = {
+    name = "Janet"
+    dynasty = dynasty_mills
+    female = yes
+    religion = "catholic"
+    culture = "anglo"
+    age = 71
+    trait = diligent
+    trait = just
+    trait = prudent
+    trait = stubborn
+    1953.1.1 = { birth = yes }
+}
+
+# MARYLAND
+governor_maryland = {
+    name = "Wes"
+    dynasty = dynasty_moore
+    religion = "protestant"
+    culture = "anglo"
+    age = 48
+    trait = ambitious
+    trait = diligent
+    trait = just
+    trait = pragmatic
+    1978.1.1 = { birth = yes }
+}
+
+# MASSACHUSETTS
+governor_massachusetts = {
+    name = "Maura"
+    dynasty = dynasty_healey
+    female = yes
+    religion = "catholic"
+    culture = "anglo"
+    age = 52
+    trait = ambitious
+    trait = diligent
+    trait = just
+    trait = progressive
+    1974.1.1 = { birth = yes }
+}
+
+# MICHIGAN
+governor_michigan = {
+    name = "Gretchen"
+    dynasty = dynasty_whitmer
+    female = yes
+    religion = "protestant"
+    culture = "anglo"
+    age = 52
+    trait = ambitious
+    trait = diligent
+    trait = shrewd
+    trait = pragmatic
+    1971.1.1 = { birth = yes }
+}
+
+# MINNESOTA
+governor_minnesota = {
+    name = "Tim"
+    dynasty = dynasty_walz
+    religion = "protestant"
+    culture = "anglo"
+    age = 61
+    trait = diligent
+    trait = just
+    trait = pragmatic
+    trait = honest
+    1962.1.1 = { birth = yes }
+}
+
+# MISSISSIPPI
+governor_mississippi = {
+    name = "Tate"
+    dynasty = dynasty_reeves
+    religion = "protestant"
+    culture = "anglo"
+    age = 48
+    trait = ambitious
+    trait = shrewd
+    trait = stubborn
+    trait = zealous
+    1974.1.1 = { birth = yes }
+}
+
+# MISSOURI
+governor_missouri = {
+    name = "Mike"
+    dynasty = dynasty_kehoe
+    religion = "catholic"
+    culture = "anglo"
+    age = 52
+    trait = ambitious
+    trait = diligent
+    trait = shrewd
+    trait = pragmatic
+    1972.1.1 = { birth = yes }
+}
+
+# MONTANA
+governor_montana = {
+    name = "Greg"
+    dynasty = dynasty_gianforte
+    religion = "mormon"
+    culture = "anglo"
+    age = 64
+    trait = ambitious
+    trait = shrewd
+    trait = stubborn
+    trait = zealous
+    1961.1.1 = { birth = yes }
+}
+
+# NEBRASKA
+governor_nebraska = {
+    name = "Jim"
+    dynasty = dynasty_pillen
+    religion = "protestant"
+    culture = "anglo"
+    age = 62
+    trait = ambitious
+    trait = diligent
+    trait = pragmatic
+    trait = shrewd
+    1964.1.1 = { birth = yes }
+}
+
+# NEVADA
+governor_nevada = {
+    name = "Joe"
+    dynasty = dynasty_lombardo
+    religion = "catholic"
+    culture = "franco"
+    age = 66
+    trait = ambitious
+    trait = shrewd
+    trait = pragmatic
+    trait = gregarious
+    1958.1.1 = { birth = yes }
+}
+
+# NEW HAMPSHIRE
+governor_newhampshire = {
+    name = "Chris"
+    dynasty = dynasty_sununu
+    religion = "catholic"
+    culture = "franco"
+    age = 50
+    trait = ambitious
+    trait = shrewd
+    trait = pragmatic
+    trait = gregarious
+    1974.1.1 = { birth = yes }
+}
+
+# NEW JERSEY
+governor_newjersey = {
+    name = "Phil"
+    dynasty = dynasty_murphy
+    religion = "catholic"
+    culture = "franco"
+    age = 67
+    trait = ambitious
+    trait = diligent
+    trait = pragmatic
+    trait = shrewd
+    1957.1.1 = { birth = yes }
+}
+
+# NEW MEXICO
+governor_newmexico = {
+    name = "Michelle"
+    dynasty = dynasty_lujan_grisham
+    female = yes
+    religion = "catholic"
+    culture = "franco"
+    age = 67
+    trait = ambitious
+    trait = diligent
+    trait = shrewd
+    trait = pragmatic
+    1959.1.1 = { birth = yes }
+}
+
+# NEW YORK
+governor_newyork = {
+    name = "Kathy"
+    dynasty = dynasty_hochul
+    female = yes
+    religion = "catholic"
+    culture = "franco"
+    age = 66
+    trait = ambitious
+    trait = diligent
+    trait = shrewd
+    trait = pragmatic
+    1958.1.1 = { birth = yes }
+}
+
+# NORTH CAROLINA
+governor_northcarolina = {
+    name = "Roy"
+    dynasty = dynasty_cooper
+    religion = "protestant"
+    culture = "anglo"
+    age = 69
+    trait = ambitious
+    trait = diligent
+    trait = just
+    trait = pragmatic
+    1957.1.1 = { birth = yes }
+}
+
+# NORTH DAKOTA
+governor_northdakota = {
+    name = "Doug"
+    dynasty = dynasty_burgum
+    religion = "protestant"
+    culture = "anglo"
+    age = 69
+    trait = ambitious
+    trait = shrewd
+    trait = pragmatic
+    trait = gregarious
+    1957.1.1 = { birth = yes }
+}
+
+# OHIO
+governor_ohio = {
+    name = "Mike"
+    dynasty = dynasty_dewine
+    religion = "catholic"
+    culture = "anglo"
+    age = 77
+    trait = diligent
+    trait = just
+    trait = prudent
+    trait = honest
+    1947.1.1 = { birth = yes }
+}
+
+# OKLAHOMA
+governor_oklahoma = {
+    name = "Kevin"
+    dynasty = dynasty_stitt
+    religion = "protestant"
+    culture = "anglo"
+    age = 57
+    trait = ambitious
+    trait = shrewd
+    trait = pragmatic
+    trait = conservative
+    11972.1.1 = { birth = yes }
+}
+
+# OREGON
+governor_oregon = {
+    name = "Tina"
+    dynasty = dynasty_kotek
+    female = yes
+    religion = "catholic"
+    culture = "anglo"
+    age = 49
+    trait = ambitious
+    trait = diligent
+    trait = just
+    trait = progressive
+    1975.1.1 = { birth = yes }
+}
+
+# PENNSYLVANIA
+governor_pennsylvania = {
+    name = "Josh"
+    dynasty = dynasty_shapiro
+    religion = "jewish"
+    culture = "anglo"
+    age = 51
+    trait = ambitious
+    trait = diligent
+    trait = just
+    trait = pragmatic
+    1973.1.1 = { birth = yes }
+}
+
+# RHODE ISLAND
+governor_rhodeisland = {
+    name = "Dan"
+    dynasty = dynasty_mckee
+    religion = "catholic"
+    culture = "franco"
+    age = 68
+    trait = diligent
+    trait = just
+    trait = prudent
+    trait = pragmatic
+    1956.1.1 = { birth = yes }
+}
+
+# SOUTH CAROLINA
+governor_southcarolina = {
+    name = "Henry"
+    dynasty = dynasty_mcmaster
+    religion = "protestant"
+    culture = "anglo"
+    age = 73
+    trait = ambitious
+    trait = shrewd
+    trait = stubborn
+    trait = zealous
+    1956.1.1 = { birth = yes }
+}
+
+# SOUTH DAKOTA
+governor_southdakota = {
+    name = "Kristi"
+    dynasty = dynasty_noem
+    female = yes
+    religion = "protestant"
+    culture = "anglo"
+    age = 52
+    trait = ambitious
+    trait = shrewd
+    trait = stubborn
+    trait = zealous
+    1971.1.1 = { birth = yes }
+}
+
+# TENNESSEE
+governor_tennessee = {
+    name = "Bill"
+    dynasty = dynasty_lee
+    religion = "protestant"
+    culture = "anglo"
+    age = 72
+    trait = ambitious
+    trait = zealous
+    trait = shrewd
+    trait = conservative
+    1954.1.1 = { birth = yes }
+}
+
+# TEXAS
+governor_texas = {
+    name = "Greg"
+    dynasty = dynasty_abbott
+    religion = "protestant"
+    culture = "anglo"
+    age = 67
+    trait = ambitious
+    trait = shrewd
+    trait = conservative
+    trait = stubborn
+    1957.1.1 = { birth = yes }
+}
+
+# UTAH
+governor_utah = {
+    name = "Spencer"
+    dynasty = dynasty_cox
+    religion = "mormon"
+    culture = "anglo"
+    age = 53
+    trait = ambitious
+    trait = diligent
+    trait = pragmatic
+    trait = conservative
+    1971.1.1 = { birth = yes }
+}
+
+# VERMONT
+governor_vermont = {
+    name = "Phil"
+    dynasty = dynasty_scott
+    religion = "protestant"
+    culture = "anglo"
+    age = 67
+    trait = diligent
+    trait = just
+    trait = prudent
+    trait = honest
+    1958.1.1 = { birth = yes }
+}
+
+# VIRGINIA
+governor_virginia = {
+    name = "Glenn"
+    dynasty = dynasty_youngkin
+    religion = "protestant"
+    culture = "anglo"
+    age = 59
+    trait = ambitious
+    trait = shrewd
+    trait = pragmatic
+    trait = conservative
+    1966.1.1 = { birth = yes }
+}
+
+# WASHINGTON
+governor_washington = {
+    name = "Jay"
+    dynasty = dynasty_inslee
+    religion = "protestant"
+    culture = "anglo"
+    age = 74
+    trait = diligent
+    trait = just
+    trait = honest
+    trait = progressive
+    1951.1.1 = { birth = yes }
+}
+
+# WEST VIRGINIA
+governor_westvirginia = {
+    name = "Jim"
+    dynasty = dynasty_justice
+    religion = "protestant"
+    culture = "anglo"
+    age = 76
+    trait = ambitious
+    trait = shrewd
+    trait = stubborn
+    trait = pragmatic
+    1951.1.1 = { birth = yes }
+}
+
+# WISCONSIN
+governor_wisconsin = {
+    name = "Tony"
+    dynasty = dynasty_evers
+    religion = "protestant"
+    culture = "anglo"
+    age = 76
+    trait = diligent
+    trait = just
+    trait = pragmatic
+    trait = honest
+    1948.1.1 = { birth = yes }
+}
+
+# WYOMING
+governor_wyoming = {
+    name = "Mark"
+    dynasty = dynasty_gordon
+    religion = "protestant"
+    culture = "anglo"
+    age = 66
+    trait = ambitious
+    trait = shrewd
+    trait = pragmatic
+    trait = conservative
+    1958.1.1 = { birth = yes }
+}
+
+# USA EMPEROR
+trump = {
+    name = "Donald"
+    dynasty = dynasty_trump
+    religion = "protestant"
+    culture = "anglo"
+    age = 80
+    trait = ambitious
+    trait = shrewd
+    trait = arrogant
+    trait = wrathful
+    trait = controversial
+    1946.1.1 = { birth = yes }
+}
