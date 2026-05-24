@@ -1,0 +1,287 @@
+# Brones Mod - All Dynasties (Your Family + 50 Governors)
+
+dynasty_brones = {
+    name = "dyn_brones"
+    culture = "anglo"
+}
+
+dynasty_gorman = {
+    name = "dyn_gorman"
+    culture = "anglo"
+}
+
+dynasty_rust = {
+    name = "dyn_rust"
+    culture = "anglo"
+}
+
+dynasty_mcauliffe = {
+    name = "dyn_mcauliffe"
+    culture = "anglo"
+}
+
+dynasty_hamilton = {
+    name = "dyn_hamilton"
+    culture = "anglo"
+}
+
+dynasty_sianez = {
+    name = "dyn_sianez"
+    culture = "anglo"
+}
+
+dynasty_trump = {
+    name = "dyn_trump"
+    culture = "anglo"
+}
+
+# GOVERNOR DYNASTIES (50 STATES)
+dynasty_ivey = {
+    name = "dyn_ivey"
+    culture = "anglo"
+}
+
+dynasty_dunleavy = {
+    name = "dyn_dunleavy"
+    culture = "anglo"
+}
+
+dynasty_hobbs = {
+    name = "dyn_hobbs"
+    culture = "anglo"
+}
+
+dynasty_huckabee_sanders = {
+    name = "dyn_huckabee_sanders"
+    culture = "anglo"
+}
+
+dynasty_newsom = {
+    name = "dyn_newsom"
+    culture = "anglo"
+}
+
+dynasty_polis = {
+    name = "dyn_polis"
+    culture = "jewish"
+}
+
+dynasty_lamont = {
+    name = "dyn_lamont"
+    culture = "anglo"
+}
+
+dynasty_carney = {
+    name = "dyn_carney"
+    culture = "anglo"
+}
+
+dynasty_desantis = {
+    name = "dyn_desantis"
+    culture = "franco"
+}
+
+dynasty_kemp = {
+    name = "dyn_kemp"
+    culture = "anglo"
+}
+
+dynasty_green = {
+    name = "dyn_green"
+    culture = "anglo"
+}
+
+dynasty_little = {
+    name = "dyn_little"
+    culture = "anglo"
+}
+
+dynasty_pritzker = {
+    name = "dyn_pritzker"
+    culture = "jewish"
+}
+
+dynasty_holcomb = {
+    name = "dyn_holcomb"
+    culture = "anglo"
+}
+
+dynasty_reynolds = {
+    name = "dyn_reynolds"
+    culture = "anglo"
+}
+
+dynasty_kelly = {
+    name = "dyn_kelly"
+    culture = "anglo"
+}
+
+dynasty_beshear = {
+    name = "dyn_beshear"
+    culture = "anglo"
+}
+
+dynasty_landry = {
+    name = "dyn_landry"
+    culture = "franco"
+}
+
+dynasty_mills = {
+    name = "dyn_mills"
+    culture = "anglo"
+}
+
+dynasty_moore = {
+    name = "dyn_moore"
+    culture = "anglo"
+}
+
+dynasty_healey = {
+    name = "dyn_healey"
+    culture = "anglo"
+}
+
+dynasty_whitmer = {
+    name = "dyn_whitmer"
+    culture = "anglo"
+}
+
+dynasty_walz = {
+    name = "dyn_walz"
+    culture = "anglo"
+}
+
+dynasty_reeves = {
+    name = "dyn_reeves"
+    culture = "anglo"
+}
+
+dynasty_kehoe = {
+    name = "dyn_kehoe"
+    culture = "anglo"
+}
+
+dynasty_gianforte = {
+    name = "dyn_gianforte"
+    culture = "anglo"
+}
+
+dynasty_pillen = {
+    name = "dyn_pillen"
+    culture = "anglo"
+}
+
+dynasty_lombardo = {
+    name = "dyn_lombardo"
+    culture = "franco"
+}
+
+dynasty_sununu = {
+    name = "dyn_sununu"
+    culture = "franco"
+}
+
+dynasty_murphy = {
+    name = "dyn_murphy"
+    culture = "franco"
+}
+
+dynasty_lujan_grisham = {
+    name = "dyn_lujan_grisham"
+    culture = "franco"
+}
+
+dynasty_hochul = {
+    name = "dyn_hochul"
+    culture = "franco"
+}
+
+dynasty_cooper = {
+    name = "dyn_cooper"
+    culture = "anglo"
+}
+
+dynasty_burgum = {
+    name = "dyn_burgum"
+    culture = "anglo"
+}
+
+dynasty_dewine = {
+    name = "dyn_dewine"
+    culture = "anglo"
+}
+
+dynasty_stitt = {
+    name = "dyn_stitt"
+    culture = "anglo"
+}
+
+dynasty_kotek = {
+    name = "dyn_kotek"
+    culture = "anglo"
+}
+
+dynasty_shapiro = {
+    name = "dyn_shapiro"
+    culture = "jewish"
+}
+
+dynasty_mckee = {
+    name = "dyn_mckee"
+    culture = "franco"
+}
+
+dynasty_mcmaster = {
+    name = "dyn_mcmaster"
+    culture = "anglo"
+}
+
+dynasty_noem = {
+    name = "dyn_noem"
+    culture = "anglo"
+}
+
+dynasty_lee = {
+    name = "dyn_lee"
+    culture = "anglo"
+}
+
+dynasty_abbott = {
+    name = "dyn_abbott"
+    culture = "anglo"
+}
+
+dynasty_cox = {
+    name = "dyn_cox"
+    culture = "anglo"
+}
+
+dynasty_scott = {
+    name = "dyn_scott"
+    culture = "anglo"
+}
+
+dynasty_youngkin = {
+    name = "dyn_youngkin"
+    culture = "anglo"
+}
+
+dynasty_inslee = {
+    name = "dyn_inslee"
+    culture = "anglo"
+}
+
+dynasty_justice = {
+    name = "dyn_justice"
+    culture = "anglo"
+}
+
+dynasty_evers = {
+    name = "dyn_evers"
+    culture = "anglo"
+}
+
+dynasty_gordon = {
+    name = "dyn_gordon"
+    culture = "anglo"
+}
