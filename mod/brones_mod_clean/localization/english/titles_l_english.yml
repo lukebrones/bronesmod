@@ -1,0 +1,281 @@
+l_english:
+ e_america:0 "United States of America"
+ e_america_adj:0 "American"
+ k_usa:0 "United States"
+ k_usa_adj:0 "American"
+ 
+ # ALABAMA
+ d_alabama:0 "Alabama"
+ d_alabama_adj:0 "Alabamian"
+ c_montgomery:0 "Montgomery"
+ 
+ # ALASKA
+ d_alaska:0 "Alaska"
+ d_alaska_adj:0 "Alaskan"
+ c_juneau:0 "Juneau"
+ 
+ # ARIZONA
+ d_arizona:0 "Arizona"
+ d_arizona_adj:0 "Arizonan"
+ c_phoenix:0 "Phoenix"
+ 
+ # ARKANSAS
+ d_arkansas:0 "Arkansas"
+ d_arkansas_adj:0 "Arkansan"
+ c_littlerock:0 "Little Rock"
+ 
+ # CALIFORNIA
+ d_california:0 "California"
+ d_california_adj:0 "Californian"
+ c_sacramento:0 "Sacramento"
+ c_losangeles:0 "Los Angeles"
+ c_sanfrancisco:0 "San Francisco"
+ c_sandiego:0 "San Diego"
+ 
+ # COLORADO
+ d_colorado:0 "Colorado"
+ d_colorado_adj:0 "Coloradan"
+ c_denver:0 "Denver"
+ 
+ # CONNECTICUT
+ d_connecticut:0 "Connecticut"
+ d_connecticut_adj:0 "Connecticuter"
+ c_hartford:0 "Hartford"
+ 
+ # DELAWARE
+ d_delaware:0 "Delaware"
+ d_delaware_adj:0 "Delawarean"
+ c_dover:0 "Dover"
+ 
+ # FLORIDA
+ d_florida:0 "Florida"
+ d_florida_adj:0 "Floridian"
+ c_tallahassee:0 "Tallahassee"
+ c_miami:0 "Miami"
+ c_orlando:0 "Orlando"
+ 
+ # GEORGIA
+ d_georgia:0 "Georgia"
+ d_georgia_adj:0 "Georgian"
+ c_atlanta:0 "Atlanta"
+ 
+ # HAWAII
+ d_hawaii:0 "Hawaii"
+ d_hawaii_adj:0 "Hawaiian"
+ c_honolulu:0 "Honolulu"
+ 
+ # IDAHO
+ d_idaho:0 "Idaho"
+ d_idaho_adj:0 "Idahoan"
+ c_boise:0 "Boise"
+ 
+ # ILLINOIS
+ d_illinois:0 "Illinois"
+ d_illinois_adj:0 "Illinoisan"
+ c_springfield:0 "Springfield"
+ c_chicago:0 "Chicago"
+ 
+ # INDIANA
+ d_indiana:0 "Indiana"
+ d_indiana_adj:0 "Indianan"
+ c_indianapolis:0 "Indianapolis"
+ 
+ # IOWA
+ d_iowa:0 "Iowa"
+ d_iowa_adj:0 "Iowan"
+ c_desmoines:0 "Des Moines"
+ 
+ # KANSAS
+ d_kansas:0 "Kansas"
+ d_kansas_adj:0 "Kansan"
+ c_topeka:0 "Topeka"
+ 
+ # KENTUCKY
+ d_kentucky:0 "Kentucky"
+ d_kentucky_adj:0 "Kentuckian"
+ c_frankfort:0 "Frankfort"
+ 
+ # LOUISIANA
+ d_louisiana:0 "Louisiana"
+ d_louisiana_adj:0 "Louisianan"
+ c_batonrouge:0 "Baton Rouge"
+ c_neworleans:0 "New Orleans"
+ 
+ # MAINE
+ d_maine:0 "Maine"
+ d_maine_adj:0 "Mainer"
+ c_augusta:0 "Augusta"
+ 
+ # MARYLAND
+ d_maryland:0 "Maryland"
+ d_maryland_adj:0 "Marylander"
+ c_annapolis:0 "Annapolis"
+ 
+ # MASSACHUSETTS
+ d_massachusetts:0 "Massachusetts"
+ d_massachusetts_adj:0 "Massachusetts"
+ c_boston:0 "Boston"
+ 
+ # MICHIGAN
+ d_michigan:0 "Michigan"
+ d_michigan_adj:0 "Michigander"
+ c_lansing:0 "Lansing"
+ c_detroit:0 "Detroit"
+ 
+ # MINNESOTA
+ d_minnesota:0 "Minnesota"
+ d_minnesota_adj:0 "Minnesotan"
+ c_saintpaul:0 "Saint Paul"
+ c_minneapolis:0 "Minneapolis"
+ 
+ # MISSISSIPPI
+ d_mississippi:0 "Mississippi"
+ d_mississippi_adj:0 "Mississippian"
+ c_jackson:0 "Jackson"
+ 
+ # MISSOURI
+ d_missouri:0 "Missouri"
+ d_missouri_adj:0 "Missourian"
+ c_jeffersoncity:0 "Jefferson City"
+ c_stlouis:0 "Saint Louis"
+ 
+ # MONTANA
+ d_montana:0 "Montana"
+ d_montana_adj:0 "Montanan"
+ c_helena:0 "Helena"
+ 
+ # NEBRASKA
+ d_nebraska:0 "Nebraska"
+ d_nebraska_adj:0 "Nebraskan"
+ c_lincoln:0 "Lincoln"
+ c_omaha:0 "Omaha"
+ 
+ # NEVADA
+ d_nevada:0 "Nevada"
+ d_nevada_adj:0 "Nevadan"
+ c_carson:0 "Carson City"
+ c_lasvegas:0 "Las Vegas"
+ 
+ # NEW HAMPSHIRE
+ d_newhampshire:0 "New Hampshire"
+ d_newhampshire_adj:0 "New Hampshirite"
+ c_concord:0 "Concord"
+ 
+ # NEW JERSEY
+ d_newjersey:0 "New Jersey"
+ d_newjersey_adj:0 "New Jerseyan"
+ c_trenton:0 "Trenton"
+ c_newark:0 "Newark"
+ 
+ # NEW MEXICO
+ d_newmexico:0 "New Mexico"
+ d_newmexico_adj:0 "New Mexican"
+ c_santafe:0 "Santa Fe"
+ c_albuquerque:0 "Albuquerque"
+ 
+ # NEW YORK
+ d_newyork:0 "New York"
+ d_newyork_adj:0 "New Yorker"
+ c_albany:0 "Albany"
+ c_newyorkcity:0 "New York City"
+ 
+ # NORTH CAROLINA
+ d_northcarolina:0 "North Carolina"
+ d_northcarolina_adj:0 "North Carolinian"
+ c_raleigh:0 "Raleigh"
+ c_charlotte:0 "Charlotte"
+ 
+ # NORTH DAKOTA
+ d_northdakota:0 "North Dakota"
+ d_northdakota_adj:0 "North Dakotan"
+ c_bismarck:0 "Bismarck"
+ 
+ # OHIO
+ d_ohio:0 "Ohio"
+ d_ohio_adj:0 "Ohioan"
+ c_columbus:0 "Columbus"
+ c_cleveland:0 "Cleveland"
+ 
+ # OKLAHOMA
+ d_oklahoma:0 "Oklahoma"
+ d_oklahoma_adj:0 "Oklahoman"
+ c_oklahomaicity:0 "Oklahoma City"
+ c_tulsa:0 "Tulsa"
+ 
+ # OREGON
+ d_oregon:0 "Oregon"
+ d_oregon_adj:0 "Oregonian"
+ c_salem:0 "Salem"
+ c_portland:0 "Portland"
+ 
+ # PENNSYLVANIA
+ d_pennsylvania:0 "Pennsylvania"
+ d_pennsylvania_adj:0 "Pennsylvanian"
+ c_harrisburg:0 "Harrisburg"
+ c_philadelphia:0 "Philadelphia"
+ c_pittsburgh:0 "Pittsburgh"
+ 
+ # RHODE ISLAND
+ d_rhodeisland:0 "Rhode Island"
+ d_rhodeisland_adj:0 "Rhode Islander"
+ c_providence:0 "Providence"
+ 
+ # SOUTH CAROLINA
+ d_southcarolina:0 "South Carolina"
+ d_southcarolina_adj:0 "South Carolinian"
+ c_columbia:0 "Columbia"
+ c_charleston:0 "Charleston"
+ 
+ # SOUTH DAKOTA
+ d_southdakota:0 "South Dakota"
+ d_southdakota_adj:0 "South Dakotan"
+ c_pierre:0 "Pierre"
+ 
+ # TENNESSEE
+ d_tennessee:0 "Tennessee"
+ d_tennessee_adj:0 "Tennessean"
+ c_nashville:0 "Nashville"
+ c_memphis:0 "Memphis"
+ 
+ # TEXAS
+ d_texas:0 "Texas"
+ d_texas_adj:0 "Texan"
+ c_austin:0 "Austin"
+ c_houston:0 "Houston"
+ c_dallas:0 "Dallas"
+ 
+ # UTAH
+ d_utah:0 "Utah"
+ d_utah_adj:0 "Utahn"
+ c_saltlakecity:0 "Salt Lake City"
+ 
+ # VERMONT
+ d_vermont:0 "Vermont"
+ d_vermont_adj:0 "Vermonter"
+ c_montpelier:0 "Montpelier"
+ 
+ # VIRGINIA
+ d_virginia:0 "Virginia"
+ d_virginia_adj:0 "Virginian"
+ c_richmond:0 "Richmond"
+ 
+ # WASHINGTON
+ d_washington:0 "Washington"
+ d_washington_adj:0 "Washingtonian"
+ c_seattle:0 "Seattle"
+ 
+ # WEST VIRGINIA
+ d_westvirginia:0 "West Virginia"
+ d_westvirginia_adj:0 "West Virginian"
+ c_charleston_wv:0 "Charleston"
+ 
+ # WISCONSIN
+ d_wisconsin:0 "Wisconsin"
+ d_wisconsin_adj:0 "Wisconsinite"
+ c_madison:0 "Madison"
+ c_milwaukee:0 "Milwaukee"
+ 
+ # WYOMING
+ d_wyoming:0 "Wyoming"
+ d_wyoming_adj:0 "Wyomingite"
+ c_cheyenne:0 "Cheyenne"
