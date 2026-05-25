@@ -1,0 +1,554 @@
+# Brones Mod - Title History (2026.1.1 Start Date)
+
+# ============================================================
+# YOUR FAMILY & FRIENDS - PLAYABLE CHARACTERS
+# ============================================================
+
+# ARIZONA - Luke Brones
+d_arizona = {
+    2026.1.1 = { holder = brones_luke government = feudal_government }
+}
+
+# CALIFORNIA - Martin Rust (with your family members in counties)
+d_california = {
+    2026.1.1 = { holder = rust_martin government = feudal_government }
+}
+
+c_sacramento = {
+    2026.1.1 = { holder = mcauliffe_ireland government = feudal_government }
+}
+
+c_losangeles = {
+    2026.1.1 = { holder = sianez_emma government = feudal_government }
+}
+
+c_sanfrancisco = {
+    2026.1.1 = { holder = sianez_isabella government = feudal_government }
+}
+
+c_sandiego = {
+    2026.1.1 = { holder = rust_jamilyn government = feudal_government }
+}
+
+# OKLAHOMA - Jason Hamilton
+d_oklahoma = {
+    2026.1.1 = { holder = hamilton_jason government = feudal_government }
+}
+
+# Create sub-counties for Oklahoma with your characters
+c_oklahomaicity = {
+    2026.1.1 = { holder = hamilton_justin government = feudal_government }
+}
+
+c_tulsa = {
+    2026.1.1 = { holder = rust_joe government = feudal_government }
+}
+
+# ============================================================
+# USA EMPEROR - TRUMP
+# ============================================================
+
+k_usa = {
+    2026.1.1 = { holder = trump government = feudal_government }
+}
+
+e_america = {
+    2026.1.1 = { holder = trump government = feudal_government }
+}
+
+# ============================================================
+# ALL STATE GOVERNORS (50 STATES)
+# ============================================================
+
+# ALABAMA - Kay Ivey
+d_alabama = {
+    2026.1.1 = { holder = governor_alabama government = feudal_government }
+}
+
+c_montgomery = {
+    2026.1.1 = { holder = governor_alabama government = feudal_government }
+}
+
+# ALASKA - Mike Dunleavy
+d_alaska = {
+    2026.1.1 = { holder = governor_alaska government = feudal_government }
+}
+
+c_juneau = {
+    2026.1.1 = { holder = governor_alaska government = feudal_government }
+}
+
+# CONNECTICUT - Ned Lamont
+d_connecticut = {
+    2026.1.1 = { holder = governor_connecticut government = feudal_government }
+}
+
+c_hartford = {
+    2026.1.1 = { holder = governor_connecticut government = feudal_government }
+}
+
+# DELAWARE - John Carney
+d_delaware = {
+    2026.1.1 = { holder = governor_delaware government = feudal_government }
+}
+
+c_dover = {
+    2026.1.1 = { holder = governor_delaware government = feudal_government }
+}
+
+# FLORIDA - Ron DeSantis
+d_florida = {
+    2026.1.1 = { holder = governor_florida government = feudal_government }
+}
+
+c_tallahassee = {
+    2026.1.1 = { holder = governor_florida government = feudal_government }
+}
+
+c_miami = {
+    2026.1.1 = { holder = governor_florida government = feudal_government }
+}
+
+c_orlando = {
+    2026.1.1 = { holder = governor_florida government = feudal_government }
+}
+
+# GEORGIA - Brian Kemp
+d_georgia = {
+    2026.1.1 = { holder = governor_georgia government = feudal_government }
+}
+
+c_atlanta = {
+    2026.1.1 = { holder = governor_georgia government = feudal_government }
+}
+
+# HAWAII - Josh Green
+d_hawaii = {
+    2026.1.1 = { holder = governor_hawaii government = feudal_government }
+}
+
+c_honolulu = {
+    2026.1.1 = { holder = governor_hawaii government = feudal_government }
+}
+
+# IDAHO - Brad Little
+d_idaho = {
+    2026.1.1 = { holder = governor_idaho government = feudal_government }
+}
+
+c_boise = {
+    2026.1.1 = { holder = governor_idaho government = feudal_government }
+}
+
+# ILLINOIS - J.B. Pritzker
+d_illinois = {
+    2026.1.1 = { holder = governor_illinois government = feudal_government }
+}
+
+c_springfield = {
+    2026.1.1 = { holder = governor_illinois government = feudal_government }
+}
+
+c_chicago = {
+    2026.1.1 = { holder = governor_illinois government = feudal_government }
+}
+
+# INDIANA - Eric Holcomb
+d_indiana = {
+    2026.1.1 = { holder = governor_indiana government = feudal_government }
+}
+
+c_indianapolis = {
+    2026.1.1 = { holder = governor_indiana government = feudal_government }
+}
+
+# IOWA - Kim Reynolds
+d_iowa = {
+    2026.1.1 = { holder = governor_iowa government = feudal_government }
+}
+
+c_desmoines = {
+    2026.1.1 = { holder = governor_iowa government = feudal_government }
+}
+
+# KANSAS - Laura Kelly
+d_kansas = {
+    2026.1.1 = { holder = governor_kansas government = feudal_government }
+}
+
+c_topeka = {
+    2026.1.1 = { holder = governor_kansas government = feudal_government }
+}
+
+# KENTUCKY - Andy Beshear
+d_kentucky = {
+    2026.1.1 = { holder = governor_kentucky government = feudal_government }
+}
+
+c_frankfort = {
+    2026.1.1 = { holder = governor_kentucky government = feudal_government }
+}
+
+# LOUISIANA - Jeff Landry
+d_louisiana = {
+    2026.1.1 = { holder = governor_louisiana government = feudal_government }
+}
+
+c_batonrouge = {
+    2026.1.1 = { holder = governor_louisiana government = feudal_government }
+}
+
+c_neworleans = {
+    2026.1.1 = { holder = governor_louisiana government = feudal_government }
+}
+
+# MAINE - Janet Mills
+d_maine = {
+    2026.1.1 = { holder = governor_maine government = feudal_government }
+}
+
+c_augusta = {
+    2026.1.1 = { holder = governor_maine government = feudal_government }
+}
+
+# MARYLAND - Wes Moore
+d_maryland = {
+    2026.1.1 = { holder = governor_maryland government = feudal_government }
+}
+
+c_annapolis = {
+    2026.1.1 = { holder = governor_maryland government = feudal_government }
+}
+
+# MASSACHUSETTS - Maura Healey
+d_massachusetts = {
+    2026.1.1 = { holder = governor_massachusetts government = feudal_government }
+}
+
+c_boston = {
+    2026.1.1 = { holder = governor_massachusetts government = feudal_government }
+}
+
+# MICHIGAN - Gretchen Whitmer
+d_michigan = {
+    2026.1.1 = { holder = governor_michigan government = feudal_government }
+}
+
+c_lansing = {
+    2026.1.1 = { holder = governor_michigan government = feudal_government }
+}
+
+c_detroit = {
+    2026.1.1 = { holder = governor_michigan government = feudal_government }
+}
+
+# MINNESOTA - Tim Walz
+d_minnesota = {
+    2026.1.1 = { holder = governor_minnesota government = feudal_government }
+}
+
+c_saintpaul = {
+    2026.1.1 = { holder = governor_minnesota government = feudal_government }
+}
+
+c_minneapolis = {
+    2026.1.1 = { holder = governor_minnesota government = feudal_government }
+}
+
+# MISSISSIPPI - Tate Reeves
+d_mississippi = {
+    2026.1.1 = { holder = governor_mississippi government = feudal_government }
+}
+
+c_jackson = {
+    2026.1.1 = { holder = governor_mississippi government = feudal_government }
+}
+
+# MISSOURI - Mike Kehoe
+d_missouri = {
+    2026.1.1 = { holder = governor_missouri government = feudal_government }
+}
+
+c_jeffersoncity = {
+    2026.1.1 = { holder = governor_missouri government = feudal_government }
+}
+
+c_stlouis = {
+    2026.1.1 = { holder = governor_missouri government = feudal_government }
+}
+
+# MONTANA - Greg Gianforte
+d_montana = {
+    2026.1.1 = { holder = governor_montana government = feudal_government }
+}
+
+c_helena = {
+    2026.1.1 = { holder = governor_montana government = feudal_government }
+}
+
+# NEBRASKA - Jim Pillen
+d_nebraska = {
+    2026.1.1 = { holder = governor_nebraska government = feudal_government }
+}
+
+c_lincoln = {
+    2026.1.1 = { holder = governor_nebraska government = feudal_government }
+}
+
+c_omaha = {
+    2026.1.1 = { holder = governor_nebraska government = feudal_government }
+}
+
+# NEVADA - Joe Lombardo
+d_nevada = {
+    2026.1.1 = { holder = governor_nevada government = feudal_government }
+}
+
+c_carson = {
+    2026.1.1 = { holder = governor_nevada government = feudal_government }
+}
+
+c_lasvegas = {
+    2026.1.1 = { holder = governor_nevada government = feudal_government }
+}
+
+# NEW HAMPSHIRE - Chris Sununu
+d_newhampshire = {
+    2026.1.1 = { holder = governor_newhampshire government = feudal_government }
+}
+
+c_concord = {
+    2026.1.1 = { holder = governor_newhampshire government = feudal_government }
+}
+
+# NEW JERSEY - Phil Murphy
+d_newjersey = {
+    2026.1.1 = { holder = governor_newjersey government = feudal_government }
+}
+
+c_trenton = {
+    2026.1.1 = { holder = governor_newjersey government = feudal_government }
+}
+
+c_newark = {
+    2026.1.1 = { holder = governor_newjersey government = feudal_government }
+}
+
+# NEW MEXICO - Michelle Lujan Grisham
+d_newmexico = {
+    2026.1.1 = { holder = governor_newmexico government = feudal_government }
+}
+
+c_santafe = {
+    2026.1.1 = { holder = governor_newmexico government = feudal_government }
+}
+
+c_albuquerque = {
+    2026.1.1 = { holder = governor_newmexico government = feudal_government }
+}
+
+# NEW YORK - Kathy Hochul
+d_newyork = {
+    2026.1.1 = { holder = governor_newyork government = feudal_government }
+}
+
+c_albany = {
+    2026.1.1 = { holder = governor_newyork government = feudal_government }
+}
+
+c_newyorkcity = {
+    2026.1.1 = { holder = governor_newyork government = feudal_government }
+}
+
+# NORTH CAROLINA - Roy Cooper
+d_northcarolina = {
+    2026.1.1 = { holder = governor_northcarolina government = feudal_government }
+}
+
+c_raleigh = {
+    2026.1.1 = { holder = governor_northcarolina government = feudal_government }
+}
+
+c_charlotte = {
+    2026.1.1 = { holder = governor_northcarolina government = feudal_government }
+}
+
+# NORTH DAKOTA - Doug Burgum
+d_northdakota = {
+    2026.1.1 = { holder = governor_northdakota government = feudal_government }
+}
+
+c_bismarck = {
+    2026.1.1 = { holder = governor_northdakota government = feudal_government }
+}
+
+# OHIO - Mike DeWine
+d_ohio = {
+    2026.1.1 = { holder = governor_ohio government = feudal_government }
+}
+
+c_columbus = {
+    2026.1.1 = { holder = governor_ohio government = feudal_government }
+}
+
+c_cleveland = {
+    2026.1.1 = { holder = governor_ohio government = feudal_government }
+}
+
+# OREGON - Tina Kotek
+d_oregon = {
+    2026.1.1 = { holder = governor_oregon government = feudal_government }
+}
+
+c_salem = {
+    2026.1.1 = { holder = governor_oregon government = feudal_government }
+}
+
+c_portland = {
+    2026.1.1 = { holder = governor_oregon government = feudal_government }
+}
+
+# PENNSYLVANIA - Josh Shapiro
+d_pennsylvania = {
+    2026.1.1 = { holder = governor_pennsylvania government = feudal_government }
+}
+
+c_harrisburg = {
+    2026.1.1 = { holder = governor_pennsylvania government = feudal_government }
+}
+
+c_philadelphia = {
+    2026.1.1 = { holder = governor_pennsylvania government = feudal_government }
+}
+
+c_pittsburgh = {
+    2026.1.1 = { holder = governor_pennsylvania government = feudal_government }
+}
+
+# RHODE ISLAND - Dan McKee
+d_rhodeisland = {
+    2026.1.1 = { holder = governor_rhodeisland government = feudal_government }
+}
+
+c_providence = {
+    2026.1.1 = { holder = governor_rhodeisland government = feudal_government }
+}
+
+# SOUTH CAROLINA - Henry McMaster
+d_southcarolina = {
+    2026.1.1 = { holder = governor_southcarolina government = feudal_government }
+}
+
+c_columbia = {
+    2026.1.1 = { holder = governor_southcarolina government = feudal_government }
+}
+
+c_charleston = {
+    2026.1.1 = { holder = governor_southcarolina government = feudal_government }
+}
+
+# SOUTH DAKOTA - Kristi Noem
+d_southdakota = {
+    2026.1.1 = { holder = governor_southdakota government = feudal_government }
+}
+
+c_pierre = {
+    2026.1.1 = { holder = governor_southdakota government = feudal_government }
+}
+
+# TENNESSEE - Bill Lee
+d_tennessee = {
+    2026.1.1 = { holder = governor_tennessee government = feudal_government }
+}
+
+c_nashville = {
+    2026.1.1 = { holder = governor_tennessee government = feudal_government }
+}
+
+c_memphis = {
+    2026.1.1 = { holder = governor_tennessee government = feudal_government }
+}
+
+# TEXAS - Greg Abbott
+d_texas = {
+    2026.1.1 = { holder = governor_texas government = feudal_government }
+}
+
+c_austin = {
+    2026.1.1 = { holder = governor_texas government = feudal_government }
+}
+
+c_houston = {
+    2026.1.1 = { holder = governor_texas government = feudal_government }
+}
+
+c_dallas = {
+    2026.1.1 = { holder = governor_texas government = feudal_government }
+}
+
+# UTAH - Spencer Cox
+d_utah = {
+    2026.1.1 = { holder = governor_utah government = feudal_government }
+}
+
+c_saltlakecity = {
+    2026.1.1 = { holder = governor_utah government = feudal_government }
+}
+
+# VERMONT - Phil Scott
+d_vermont = {
+    2026.1.1 = { holder = governor_vermont government = feudal_government }
+}
+
+c_montpelier = {
+    2026.1.1 = { holder = governor_vermont government = feudal_government }
+}
+
+# VIRGINIA - Glenn Youngkin
+d_virginia = {
+    2026.1.1 = { holder = governor_virginia government = feudal_government }
+}
+
+c_richmond = {
+    2026.1.1 = { holder = governor_virginia government = feudal_government }
+}
+
+# WASHINGTON - Jay Inslee
+d_washington = {
+    2026.1.1 = { holder = governor_washington government = feudal_government }
+}
+
+c_seattle = {
+    2026.1.1 = { holder = governor_washington government = feudal_government }
+}
+
+# WEST VIRGINIA - Jim Justice
+d_westvirginia = {
+    2026.1.1 = { holder = governor_westvirginia government = feudal_government }
+}
+
+c_charleston_wv = {
+    2026.1.1 = { holder = governor_westvirginia government = feudal_government }
+}
+
+# WISCONSIN - Tony Evers
+d_wisconsin = {
+    2026.1.1 = { holder = governor_wisconsin government = feudal_government }
+}
+
+c_madison = {
+    2026.1.1 = { holder = governor_wisconsin government = feudal_government }
+}
+
+c_milwaukee = {
+    2026.1.1 = { holder = governor_wisconsin government = feudal_government }
+}
+
+# WYOMING - Mark Gordon
+d_wyoming = {
+    2026.1.1 = { holder = governor_wyoming government = feudal_government }
+}
+
+c_cheyenne = {
+    2026.1.1 = { holder = governor_wyoming government = feudal_government }
+}
